@@ -23,4 +23,4 @@ Then add the following modules to your Python Code:
 All that is required once you've installed the necessary software and modules is to only run this Jupyter Python Notebook is to just startup Jupyter alone or using the Anaconda Software. This project was created on a Windows 10 Operating System using Anaconda.
 
 # Where to Start
-`COVID-19 Data SQL Results to Excel.ipynb` is the file used to create the Excel files needed for the result of [COVID Covid Dashboard using Tableau](https://public.tableau.com/app/profile/james.c.wolfe/viz/CovidDashboard_16465109164560/Dashboard1). If you have SQLite installed on your PC, you can investigate the `COVID_DB.db` database that was used to create the Dashboard for this project.
+`COVID-19 Data SQL Results to Excel.ipynb` is the file used to create the Excel files needed for the result of [COVID Dashboard using Tableau](https://public.tableau.com/app/profile/james.c.wolfe/viz/CovidDashboard_16465109164560/Dashboard1). If you have SQLite installed on your PC, you can investigate the `COVID_DB.db` database that was used to create the Dashboard for this project.
